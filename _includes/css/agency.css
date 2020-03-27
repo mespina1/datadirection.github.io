@@ -752,10 +752,11 @@ section#contact .text-danger {
 
 footer {
     padding: 25px 0;
-
+    text-align: right;
 }
 
 footer span.copyright {
+    display: inline-block;
     text-transform: uppercase;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
