@@ -756,7 +756,7 @@ footer {
 }
 
 footer span.copyright {
-    display: inline;
+    display: inline-block;
     text-transform: uppercase;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
