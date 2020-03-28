@@ -212,7 +212,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle>.active>.icon-bar:active {
     background-color: #fff;
 }
-.navbar-default .navbar-toggle>.active>.icon-ba
+.navbar-default .navbar-toggle .icon-bar:active {
+    background-color: #fff;
+}
 
 .navbar-default .main-logo-image{
 
