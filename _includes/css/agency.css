@@ -204,11 +204,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-.navbar-default .navbar-toggle .main-logo-image{
+.navbar-default .main-logo-image{
 
         height: 92px;
         overflow: hidden;
-        margin-top: -15px;
+        margin-top: -35px;
     }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
@@ -258,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 
         height: 92px;
         overflow: hidden;
-        margin-top: -35px;
+        margin-top: -40px;
     }
 
     .navbar-default .logo-image{
