@@ -203,6 +203,10 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #{{ site.data.template.color.primary }};
 }
+.navbar-default .navbar-toggle .icon-bar:hover,
+.navbar-default .navbar-toggle .icon-bar:focus {
+    background-color: #fff;
+}
 
 .navbar-default .main-logo-image{
 
