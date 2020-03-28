@@ -208,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
 
         height: 92px;
         overflow: hidden;
-        margin-top: 0px;
+        margin-top: -15px;
     }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
