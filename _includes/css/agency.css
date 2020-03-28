@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #9B2412;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-brand {
@@ -193,7 +193,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
-    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle {
