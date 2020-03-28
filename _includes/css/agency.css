@@ -204,6 +204,12 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.navbar-default .navbar-toggle .main-logo-image{
+
+        height: 92px;
+        overflow: hidden;
+        margin-top: 0px;
+    }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background-color: #{{ site.data.template.color.primary }};
