@@ -204,7 +204,9 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 .navbar-default .navbar-toggle .icon-bar:hover,
-.navbar-default .navbar-toggle .icon-bar:focus {
+.navbar-default .navbar-toggle .icon-bar:focus,
+.navbar-default .navbar-toggle .icon-bar:active,
+.navbar-default .navbar-toggle .icon-bar.active {
     background-color: #fff;
 }
 
