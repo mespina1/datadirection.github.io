@@ -253,7 +253,7 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
-
+    
     .navbar-default .main-logo-image{
 
         height: 92px;
