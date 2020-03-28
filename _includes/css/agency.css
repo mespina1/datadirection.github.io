@@ -257,7 +257,7 @@ fieldset[disabled] .btn-xl.active {
     }
     
     .navbar-default .main-logo-image{
-        height: 91px;
+        height: 87px;
         overflow: hidden;
         margin-top: -30px;
     }
@@ -288,9 +288,9 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .main-logo-image{
-        height: 92px;
+        height: 87px;
         overflow: hidden;
-        margin-top: -35px;
+        margin-top: -30px;
     }
 
 
