@@ -290,7 +290,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .main-logo-image{
 
-        height: 92px;
+        height: auto;
         overflow: hidden;
         margin-top: -35px;
     }
