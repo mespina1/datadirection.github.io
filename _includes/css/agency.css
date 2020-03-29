@@ -204,8 +204,8 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-
-
+/*! These are default settings for Mobile View! Regular desktop settings are set with MIN-WIDTH @media rule
+*/
 .navbar-default .main-logo-image{
 
         height: 63px;
@@ -245,7 +245,8 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
 }
-
+/*! These are Regular desktop settings, set with MIN-WIDTH 
+*/
 @media(min-width:768px) {
     .navbar-default {
         padding: 16px 0;
